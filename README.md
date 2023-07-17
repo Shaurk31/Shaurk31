@@ -2,13 +2,6 @@
 
 <h3>Hi, I'm learning to code.<h3>
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-import bpy
-bpoy.ops.mesh.primitive_monkey_add()
-```
-
 <br>
 <p align="center">languages, software, etc.</p>
 <p align="center">
