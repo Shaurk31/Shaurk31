@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-languages, software, etc.
+<h3>languages, software, etc.</h3>
 </p>
 <p align="center">
 <a href="https://svelte.dev/" target="_" title="_">
