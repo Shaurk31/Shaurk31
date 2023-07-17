@@ -1,8 +1,8 @@
 # Aloha. <img src="https://c.tenor.com/xS_t2ANBv9UAAAAj/elsalla.gif" width="40" /> 
 
 <h3>Hi, I'm learning to code.<h3>
-<img src="https://github.com/Shaurk31/Shaurk31/blob/8e70c2a226634babc0b576d5ff0656665fe15213/logo/output-onlinegiftools.gif" height="40>
-<br>
+<!--<img src="https://github.com/Shaurk31/Shaurk31/blob/8e70c2a226634babc0b576d5ff0656665fe15213/logo/output-onlinegiftools.gif" height="40>
+<br>-->
 
 <p align="center">languages, software, etc.</p>
 <p align="center">
