@@ -1,9 +1,12 @@
 # Aloha. <img src="https://c.tenor.com/xS_t2ANBv9UAAAAj/elsalla.gif" width="40" /> 
 
 <h3>Hi, I'm learning to code.<h3>
-<img src="https://github.com/Shaurk31/Shaurk31/blob/8e70c2a226634babc0b576d5ff0656665fe15213/logo/output-onlinegiftools.gif">
+<img src="https://github.com/Shaurk31/Shaurk31/blob/8e70c2a226634babc0b576d5ff0656665fe15213/logo/output-onlinegiftools.gif" height="40>
 <br>
 
+<p align="center">
+languages + software + etc.
+</p>
 <p align="center">
 <a href="https://svelte.dev/" target="_" title="_">
 <img src="https://github.com/Shaurk31/Shaurk31/blob/a136a099d8cc7fa706b45864486dee7019972fb4/svelte.png" alt="svelte" width="20" height="20">
