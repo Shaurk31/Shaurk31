@@ -1,7 +1,7 @@
 # Aloha. <img src="https://c.tenor.com/xS_t2ANBv9UAAAAj/elsalla.gif" width="40" /> 
 
 <h3>Hi, I'm learning to code.<h3>
-
+<br>
 <br>
 <p align="center">languages, software, etc.</p>
 <p align="center">
@@ -39,3 +39,13 @@
 <img src="https://github.com/Shaurk31/Shaurk31/blob/2f905d69c53a2c79ceeaffc022ca8a171bf7319b/logo/blender.png" alt="blender" width="30" height="30">
 </a>
 </p>
+
+<h2>Keyboard Builds:</h2>
+<h3>bakaneko60</h3>
+<p>cannon keys hhdailo keycaps</p>
+<p>lubed gateron blacks</p>
+<p>foam mod, tape mod, o-ring mount, clipps cut, other fixes</p>
+<h3>Keychron V1</h3>
+<p>random keycap set from kyoto, japan</p>
+<p>lubed akko cream yellows</p>
+<p>factory mods, other fixes</p>
