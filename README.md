@@ -32,11 +32,24 @@
 <a href="https://www.adobe.com/products/photoshop.html" target="_" title="_">
 <img src="https://github.com/Shaurk31/Shaurk31/blob/2f905d69c53a2c79ceeaffc022ca8a171bf7319b/logo/ps.png" alt="photoshop" width="30" height="30">
 </a>
-<a href="https://www.adobe.com/products/illustrator.html" target="_" title="_">
+<a href="https://www.adobe.c<om/products/illustrator.html" target="_" title="_">
 <img src="https://github.com/Shaurk31/Shaurk31/blob/2f905d69c53a2c79ceeaffc022ca8a171bf7319b/logo/ai.png" alt="illustrator" width="30" height="30">
 </a>
 <a href="https://www.blender.org/" target="_" title="_">
 <img src="https://github.com/Shaurk31/Shaurk31/blob/2f905d69c53a2c79ceeaffc022ca8a171bf7319b/logo/blender.png" alt="blender" width="30" height="30">
+</a>
+</p>
+
+<p align="center">learning: </p>
+<p align="center">
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_" title="_">
+<img src="https://github.com/Shaurk31/Shaurk31/blob/ec18f9ca66b2b0cf7d45e6b7bc43887ea58bf4a7/logo/csharpreal.svg" alt="csharp" width="40" height="40">
+</a>
+<a href="https://cplusplus.com/" target="_" title="_">
+<img src="https://github.com/Shaurk31/Shaurk31/blob/ec18f9ca66b2b0cf7d45e6b7bc43887ea58bf4a7/logo/Cplusplus.png" alt="cplusplus" width="35" height="40">
+</a>
+<a href="https://www.java.com/" target="_" title="_">
+<img src="https://github.com/Shaurk31/Shaurk31/blob/ec18f9ca66b2b0cf7d45e6b7bc43887ea58bf4a7/logo/java.png" alt="java" width="40" height="40">
 </a>
 </p>
 
