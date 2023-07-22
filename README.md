@@ -57,7 +57,7 @@
 <h3>bakaneko60</h3>
 <p>cannon keys hhdailo keycaps</p>
 <p>lubed gateron blacks</p>
-<p>foam mod, tape mod, o-ring mount, clipps cut, other fixes</p>
+<p>foam mod, tape mod, o-ring mount, clips cut, other fixes</p>
 <h3>Keychron V1</h3>
 <p>random keycap set from kyoto, japan</p>
 <p>lubed akko cream yellows</p>
