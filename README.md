@@ -33,7 +33,7 @@
 <img src="https://github.com/Shaurk31/Shaurk31/blob/2f905d69c53a2c79ceeaffc022ca8a171bf7319b/logo/ps.png" alt="photoshop" width="30" height="30">
 </a>
 <a href="https://www.adobe.c<om/products/illustrator.html" target="_" title="_">
-<img src="https://github.com/Shaurk31/Shaurk31/blob/2f905d69c53a2c79ceeaffc022ca8a171bf7319b/logo/ai.png" alt="illustrator" width="30" height="30">
+<img src="https://github.com/Shaurk31/Shaurk31/blob/8ce65c292c4a75fdbbb5b2bb2f4b09ff8c53f924/logo/ai.png" alt="illustrator" width="30" height="30">
 </a>
 <a href="https://www.blender.org/" target="_" title="_">
 <img src="https://github.com/Shaurk31/Shaurk31/blob/2f905d69c53a2c79ceeaffc022ca8a171bf7319b/logo/blender.png" alt="blender" width="30" height="30">
