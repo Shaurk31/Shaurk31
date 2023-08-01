@@ -23,6 +23,9 @@
 <a href="https://www.python.org/" target="_" title="_">
 <img src="https://github.com/Shaurk31/Shaurk31/blob/2f905d69c53a2c79ceeaffc022ca8a171bf7319b/logo/python.png" alt="python" width="30" height="30">
 </a>
+<a href="https://openai.com/" target="_" title="_">
+<img src="https://github.com/Shaurk31/Shaurk31/blob/fd61b7e29cbe760a3967a447e01649690735ca34/logo/openai.png" alt="openai" width="30" height="30">
+</a>
 <a href="https://opencv.org/" target="_" title="_">
 <img src="https://github.com/Shaurk31/Shaurk31/blob/2f905d69c53a2c79ceeaffc022ca8a171bf7319b/logo/opencv.png" alt="opencv" width="30" height="30">
 <a href="" target="_" title="_">
@@ -36,7 +39,7 @@
 <img src="https://github.com/Shaurk31/Shaurk31/blob/8ce65c292c4a75fdbbb5b2bb2f4b09ff8c53f924/logo/ai.png" alt="illustrator" width="30" height="30">
 </a>
 <a href="https://www.blender.org/" target="_" title="_">
-<img src="https://github.com/Shaurk31/Shaurk31/blob/2f905d69c53a2c79ceeaffc022ca8a171bf7319b/logo/blender.png" alt="blender" width="30" height="30">
+<img src="https://github.com/Shaurk31/Shaurk31/blob/2f905d69c53a2c79ceeaffc022ca8a171bf7319b/logo/blender.png" alt="blender" width="35" height="30">
 </a>
 </p>
 
