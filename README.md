@@ -9,7 +9,7 @@
 <img src="https://github.com/Shaurk31/Shaurk31/blob/a136a099d8cc7fa706b45864486dee7019972fb4/svelte.png" alt="svelte" width="30" height="30">
 </a>
 <a href="https://tailwindcss.com/" target="tailwind" title="tailwind">
-<img src="https://github.com/Shaurk31/Shaurk31/blob/2f905d69c53a2c79ceeaffc022ca8a171bf7319b/logo/tailwind.png" alt="tailwind" width="30" height="30">
+<img src="https://github.com/Shaurk31/Shaurk31/blob/2f905d69c53a2c79ceeaffc022ca8a171bf7319b/logo/tailwind.png" alt="tailwind" width="40" height="30">
 </a>
 <a href="https://www.mongodb.com/" target="mongodb" title="mongodb">
 <img src="https://github.com/Shaurk31/Shaurk31/blob/f089d3c14ec580fab55ff164e8527b94e9f184a6/logo/mongo-db.svg" alt="mongodb" width="30" height="30">
