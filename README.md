@@ -62,7 +62,10 @@
 </a>
 </p>
 
-<h2>Keyboard Builds:</h2>
+
+<details>
+<summary><b>Keyboard Builds.</b></summary>
+
 <h3>bakaneko60</h3>
 <p>cannon keys hhdailo keycaps</p>
 <p>lubed gateron blacks</p>
@@ -71,3 +74,6 @@
 <p>random keycap set from kyoto, japan</p>
 <p>lubed akko cream yellows</p>
 <p>factory mods, other fixes</p>
+
+</details>
+
