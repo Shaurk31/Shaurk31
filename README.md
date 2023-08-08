@@ -1,6 +1,6 @@
 # Aloha. <img src="https://c.tenor.com/xS_t2ANBv9UAAAAj/elsalla.gif" width="40" /> 
 
-<h3>I'm learning to code.<h3>
+<h4>I'm learning to code.<h4>
 <br>
 <br>
 <p align="center">languages, software, etc.</p>
