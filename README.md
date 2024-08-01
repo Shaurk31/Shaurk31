@@ -1,4 +1,4 @@
-
+<!--- 
 <br>
 <br>
 <p align="center">languages, software, etc.</p>
@@ -59,8 +59,8 @@
 <img src="https://github.com/Shaurk31/Shaurk31/blob/ec18f9ca66b2b0cf7d45e6b7bc43887ea58bf4a7/logo/java.png" alt="java" width="40" height="40">
 </a>
 </p>
-
-
+ --->
+ 
 <details>
 <summary><b>Keyboard Builds.</b></summary>
 
